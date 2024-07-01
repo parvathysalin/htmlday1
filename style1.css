@@ -1,0 +1,27 @@
+
+input[type=email],input[type="password"]{
+    width: 60%;
+    padding: 15px;
+    margin: 10px 0;
+    display: inline-block;
+    border-style: none;
+    
+    
+}
+button{
+    background-color:blue;
+    width:60%;
+    padding: 15px;
+    margin: 10px 0;
+    display: inline-block;
+    cursor: pointer;
+}
+form{
+    border: 3px;
+}
+body{
+    background-color: black;
+}
+label{
+    color: white;
+}

@@ -10,3 +10,5 @@ p{color: blue;border: 5px;transition: cubic-bezier();}
 .l1{border: 1px solid red;
 margin: 5% 10% 5% 30%;
 padding: 1px ;} 
+#username
+{display: inline-block;}
